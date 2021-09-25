@@ -4,3 +4,5 @@ It displays a website which showcase the culture of India
 by Gujrati's Most Exciting Festival "Navratri"
 
 /*You can check website by keeping all files in same folder*/
+Main file is Index.html
+Thanks IEEE for giving opportunity to make such website 
